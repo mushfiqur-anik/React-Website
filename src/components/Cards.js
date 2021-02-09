@@ -42,11 +42,8 @@ const Cards = () => {
                         label="Luxury"
                         path="/products"
                      />
-
-
                   </ul>
 
-                 
                </div>
             </div>    
         </div>
